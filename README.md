@@ -1,30 +1,29 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b37b8,100:c32222&height=240&text=Hello%20World!&animation=fadeIn&fontColor=f1e4ee&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b37b8,100:c32222&height=240&text=Hello!%&animation=fadeIn&fontColor=f1e4ee&fontSize=70" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
     </div>
 
-## 👩‍💻 About me
-- 중앙대학교 소프트웨어학부 (2022.03.~)
-- Contact: orchidbyw1@gmail.com
+## About me
+- 중앙대학교 소프트웨어학부 (2020.03.~)
+- Contact: runheng1209@gmail.com
 
-## 🌱 Experience
+## Experience
 |활동|기간|설명|
 |------|---|---|
-|**멋쟁이사자처럼 중앙대학교 13기**|2025.03. ~ 현재|회장 & 백엔드 파트 운영진|
-|**멋쟁이사자처럼 중앙대학교 12기**|2024.03. ~ 2024.11.|백엔드 파트 아기사자|
-|**중앙대학교 소프트웨어학부 제51대 학생회**|2022.12. ~ 2023.11.|선전부장|
+|**멋쟁이사자처럼 중앙대학교 13기**|2025.03. ~ 2025.12.|백엔드 파트 아기사자|
+|**멋쟁이사자처럼 중앙대학교 14기**|2026.01. ~ 현재까지|백엔드 파트 운영진|
 
-## 💻 Projects
+## Projects
 |프로젝트명|기간|설명|
 |------|---|---|
-|**[유노유노후](https://github.com/Likelion-wellcheers)**|2024.07. ~ 2024.08.|사용자 맞춤형 노후 지역 추천 및 여가시설 추천 서비스|
-|**[눈사람 공작소](https://github.com/Nune-ddine)**|2024.11. ~ 2024.11.|중앙대학교에 나만의 눈사람을 만들며 집에서도 겨울을 즐길 수 있는 서비스|
-|**[윷놀이](https://github.com/SE-TermProject/Yutnori)**|2025.03. ~ 2025.05.|윷놀이를 N각형으로 커스터마이징하여 즐길 수 있는 서비스|
+|**[동네방네](https://github.com/Team-200percent)**|2025.07. ~ 2025.08.|동작구 지역 상권 큐레이션 서비스|
+|**[Fit-Me Up](https://github.com/capstone-project-team06)**|2025.09. ~ 2025.12.|사용자 사진 분석 기반 맞춤 착장 추천 서비스|
+|**[Likelion Postbox](https://github.com/LikeLion-CAU-Hackathon)**|2025.10. ~ 2025.11.|동아리원들의 추억을 공유하는 커뮤니티 서비스|
 
-## 🎖️ Stacks
+## Stacks
 <div>
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
