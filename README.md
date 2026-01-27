@@ -7,7 +7,7 @@
     </div>
 
 ## About me
-- 중앙대학교 소프트웨어학부 (2020.03.~)
+- 중앙대학교 소프트웨어학부 (2020.03. ~ 현재)
 - Contact: runheng1209@gmail.com
 
 ## Experience
