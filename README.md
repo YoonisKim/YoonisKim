@@ -23,6 +23,9 @@
 |**[동네방네](https://github.com/Team-200percent)**|2025.07. ~ 2025.08.|동작구 지역 상권 큐레이션 서비스|
 |**[Fit-Me Up](https://github.com/capstone-project-team06)**|2025.09. ~ 2025.12.|사용자 사진 분석 기반 맞춤 착장 추천 서비스|
 |**[Likelion Postbox](https://github.com/LikeLion-CAU-Hackathon)**|2025.10. ~ 2025.11.|동아리원들의 추억을 공유하는 커뮤니티 서비스|
+|**[AI기반 로그 분석기](https://github.com/LogJiKiMi)**|2026.03. ~ 2026.06.|ML이상탐지와 LLM 원인분석을 결합한 로그 이상탐지 서비스|
+|**[LUCAUS](https://github.com/LUCAUS-Likelion14th/BackEnd)**|2026.03. ~ 2026.05.|중앙대학교 축제 LUCAUS의 공식 사이트|
+
 
 ## Stacks
 <div>
